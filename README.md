@@ -37,16 +37,18 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 ** This is a design for Desktop screen
 
 ![Desktop-design](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Designs/Web%20View.png)
+
 ** This is a design for Desktop screen
+
 ![Mobile-design](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Designs/Mobile%20View.png)
 ---
 
 ### Portoflio Demo
 ---
-## Desktop Demo
+### Desktop Demo
 ![Desktop Demo](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Demo/Desktop.gif)
 ---
-## Mobile Demo
+### Mobile Demo
 ![Mobile Demo](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Demo/Mobile.gif)
 
 ### w3 Validation for index.html
