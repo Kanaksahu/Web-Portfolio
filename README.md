@@ -45,15 +45,12 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 ![Mobile-view](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Designs/Mobile%20View.png)
 ---
 
-### w3 Validation for index.html
-![w3validator](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Validations/w3-validator.png)
-
----
-
 ### Portoflio Demo
 ![Desktop Demo](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Demo/Desktop.gif)
-![Mobile Demo] (
+![Mobile Demo] (https://github.com/Kanaksahu/Web-Portfolio/blob/master/Demo/Mobile.gif)
 
+### w3 Validation for index.html
+![w3validator](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Validations/w3-validator.png)
 
 
 
