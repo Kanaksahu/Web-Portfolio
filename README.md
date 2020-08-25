@@ -14,13 +14,13 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 ---
 
 ### Web Design for Everybody Capstone Prpject (Portfolio)
-* developed a professional-quality web portfolio.
-* Desgined the website from scratch.
+* Developed a professional-quality web portfolio.
+* Designed the website from scratch.
 * Built HTML structure.
 * Added CSS style.
 * Added Responsive for screens less than 500px;
 * Added JavaScript Interactivity.
-* Valdited On w3 Validator.
+* Validated On w3 Validator.
 
 ---
 
