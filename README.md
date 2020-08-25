@@ -42,8 +42,7 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 ** This is a design for Mobile screen
 
 
-![Mobile-view](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Designs/Web%20View.png)
-
+![Mobile-view](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Designs/Mobile%20View.png)
 ---
 
 ### w3 Validation for index.html
