@@ -36,7 +36,7 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ** This is a design for Desktop screen
 
-![Desktop-design](https://github.com/NohaaAa/Coursera-Web-Design-for-Everybody-Capstone-Project/blob/master/Designs/Desktop%20view.png)
+![Desktop-design](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Designs/Web%20View.png)
 
 
 ** This is a design for Mobile screen
