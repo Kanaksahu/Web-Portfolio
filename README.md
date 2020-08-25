@@ -46,19 +46,12 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 ---
 
 ### w3 Validation for index.html
-![w3validator](https://github.com/NohaaAa/Coursera-Web-Design-for-Everybody-Capstone-Project/blob/master/Validations/w3-validator.png)
+![w3validator](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Validations/w3-validator.png)
 
 ---
 
 ### Portoflio Demo
 
-** You can visit the Protoflio [here](https://noha-m.netlify.com/).
-
-
-![Desktop-view](https://github.com/NohaaAa/Coursera-Web-Design-for-Everybody-Capstone-Project/blob/master/Screenshots/disktop-view.gif)
-
-
-![Mobile-view](https://github.com/NohaaAa/Coursera-Web-Design-for-Everybody-Capstone-Project/blob/master/Screenshots/mobile-view.gif)
 
 
 
