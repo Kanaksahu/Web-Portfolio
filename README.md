@@ -51,6 +51,8 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 ---
 
 ### Portoflio Demo
+![Desktop Demo](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Demo/Desktop.gif)
+![Mobile Demo] (
 
 
 
