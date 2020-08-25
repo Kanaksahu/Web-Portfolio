@@ -42,9 +42,6 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ![Mobile-design](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Designs/Mobile%20View.png)
 ---
-
-### Portoflio Demo
----
 ### Desktop Demo
 ![Desktop Demo](https://github.com/Kanaksahu/Web-Portfolio/blob/master/Demo/Desktop.gif)
 ---
